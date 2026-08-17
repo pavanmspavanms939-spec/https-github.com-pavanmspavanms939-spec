@@ -46,7 +46,28 @@ potential threats, analyze risk and generate security alerts.
 
 GitHub: @pav...
 ## 🛠️ Technical Skills
+## 💻 Technical Skills
 
+### Programming Languages
+`Java` · `Python` · `JavaScript` · `SQL`
+
+### Web Development
+`HTML5` · `CSS3` · `JavaScript` · `Responsive Web Design`
+
+### Database
+`MySQL` · `SQLite` · `Database Design` · `CRUD Operations`
+
+### Backend & APIs
+`REST API` · `API Integration` · `Data Validation`
+
+### AI & Machine Learning
+`Python` · `Machine Learning` · `Data Analysis` · `AI/ML`
+
+### Tools
+`Git` · `GitHub` · `VS Code` · `Android Studio`
+
+### Project Development
+`Dashboard Development` · `PDF Export` · `Excel Export` · `Report Generation`
 ### Programming Languages
 
 <p>
