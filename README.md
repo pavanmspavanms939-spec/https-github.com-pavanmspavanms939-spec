@@ -126,3 +126,28 @@ GitHub: @pav...
 </p>
 
 `Git` · `GitHub` · `Linux` · `Docker` · `Postman`
+
+<p align="center">
+
+# 👋 Hi, I'm Pavan M S
+
+### 🤖 AI/ML Enthusiast | 🐍 Python Developer | ☕ Java Developer
+
+Building practical **Machine Learning, Data Science, Backend and Web Development**
+solutions for real-world problems.
+
+<br>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-blue?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=pavanmspavanms939-spec&label=PROFILE%20VIEWS&color=blue&style=for-the-badge">
+
+</p>
